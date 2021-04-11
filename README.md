@@ -1,4 +1,10 @@
-# PAYMENT-GATEWAY-INTEGRATION-GRIP2021
-Web Development Intern - The Sparks Foundation
-Task-3: Payment Gateway Integration
-Here I have created a website with Razor pay Payment Gateway to accept charity for Assam Floods.
+# sparks-charity-foundation-website
+
+THE SPARKS FOUNDATION INTERNSHIP
+#GRIPAPR2021
+
+TASK 3 : Payment Gateway Integration
+Create a website with payment integration
+
+Tools used :HTML,CSS,BOOTSTRAP,JQUERY
+Payment integration:Razorpay
